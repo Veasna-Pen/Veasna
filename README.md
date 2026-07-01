@@ -17,8 +17,12 @@ I enjoy building scalable web applications, APIs, and microservice architectures
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Veasna-Pen&show_icons=true&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veasna-Pen&layout=compact&theme=transparent" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Veasna-Pen&theme=github-compact"
+      alt="Activity Graph"
+    />
+  </a>
 </p>
 
 ---
